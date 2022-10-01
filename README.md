@@ -9,7 +9,7 @@ My RoboRock Dyad had a clacking noise today which culminated in the big front br
 
 1. Pop off the red caps on both sides with a screw driver
     ![remove red caps](images/02_neck_red_cap.png)
-1. Remove the two screw on each side
+1. Remove the two screws on each side
 1. Remove the black cap from both sides
     ![remove black caps](images/03_neck_black_cap.png)
 1. Press together the inner parts to detach the two parts (harder than it sounds!)
@@ -18,7 +18,7 @@ My RoboRock Dyad had a clacking noise today which culminated in the big front br
 
 ## Open the Lower Housing
 
-1. Remove the 9 screw that are marked in the picture. You need to remove the small wheels in the back to access two of those screws.
+1. Remove the 9 screws that are marked in the picture. You need to remove the small wheels in the back to access two of those screws.
     ![remove nine screws](images/01_bottom.png)
 1. Use a spudger or screw driver to pop off the white upper housing
 
