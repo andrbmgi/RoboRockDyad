@@ -7,14 +7,12 @@ My RoboRock Dyad had a clacking noise today which culminated in the big front br
 
 ## (Optional) Disconnect the Neck
 
-<details>
 1. Pop off the red caps on both sides with a screw driver
     ![remove red caps](images/02_neck_red_cap.png)
 1. Remove the two screw on each side
 1. Remove the black cap from both sides
     ![remove black caps](images/03_neck_black_cap.png)
 1. Press together the inner parts to detach the two parts (harder than it sounds!)
-</details>
 
 ---
 
