@@ -1,6 +1,3 @@
-[//]: # (name: google-site-verification)  
-[//]: # (content: zHtngpZk7SvyyfmoQQHeWS9Ztf7nGFLJgCxgiFxIDX0)  
-
 # RoboRock Dyad - Disassembly Instructions
 
 My RoboRock Dyad had a clacking noise today which culminated in the big front brush not rotating anymore. From the noise I expected a stripped gear so I wanted to disassemble it but found absolutely no resources online. In here I want to document how to disassemble the lower part of the device to repair the problem.
